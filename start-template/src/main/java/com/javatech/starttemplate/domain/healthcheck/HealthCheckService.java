@@ -1,6 +1,5 @@
 package com.javatech.starttemplate.domain.healthcheck;
 
-import com.javatech.starttemplate.domain.healthcheck.HealthCheckRepository;
 import org.springframework.stereotype.Service;
 
 @Service
